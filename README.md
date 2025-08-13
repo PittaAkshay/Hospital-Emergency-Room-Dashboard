@@ -32,14 +32,13 @@ Identify peak days & hours for staffing optimization.
 
 📊 Dashboard Previews
 1️⃣ Monthly View
-monthly_view.png
+![Monthly View](monthly_view.png)
 2️⃣ Consolidated View
-consolidated_view.png
+![Consolidated View](consolidated_view.png)
 3️⃣ Patient Details
-patient_details.png
+![Patient Details](Patient_details.png)
 4️⃣ Key Insights
-key_insights.png
-
+![Key Insights](key_insights.png)
 
 🔄 Project Workflow
 Requirement Gathering
@@ -93,5 +92,5 @@ Navigate dashboards via sidebar menu.
 
 📜 Author
 Akshay Pitta
-📧 [Your Email]
-💼 [Your LinkedIn/GitHub Profile]
+📧 pittaakshay045@gmail.com
+💼 https://www.linkedin.com/in/pittaakshay045/
