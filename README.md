@@ -1,4 +1,7 @@
 🏥 Hospital Emergency Room Dashboard – Power BI Project
+
+
+
 📌 Overview
 This project presents an interactive Hospital Emergency Room (ER) Dashboard built using Power BI to monitor, analyze, and optimize ER performance.
 It visualizes key operational metrics like patient volume, wait times, satisfaction scores, referrals, demographics, and peak hours.
